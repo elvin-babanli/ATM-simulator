@@ -1,0 +1,48 @@
+[2025-08-22 21:41:05.714543] DEPOSIT - EUR - 100.0 - Balance: 424.25 PLN
+
+-------------------------------
+         ATM TRANSACTION
+-------------------------------
+TERMINAL #       86718743
+SEQUENCE #       3901
+DATE             2025-08-22 21:41
+CARD NUMBER      XXXXXXXXXXXX5698
+CUSTOMER NAME    ELVIN BABANLI
+-------------------------------
+DEPOSIT AMOUNT     100.0 PLN
+TERMINAL FEE          1.75 PLN
+TOTAL AMOUNT        426.0 PLN
+-------------------------------
+
+[2025-08-22 22:00:18.304634] DEPOSIT - EUR - 100.0 - Balance: 424.25 PLN
+
+-------------------------------
+         ATM TRANSACTION
+-------------------------------
+TERMINAL #       56105100
+SEQUENCE #       4400
+DATE             2025-08-22 22:00
+CARD NUMBER      XXXXXXXXXXXX5698
+CUSTOMER NAME    ELVIN BABANLI
+-------------------------------
+DEPOSIT AMOUNT     100.0 PLN
+TERMINAL FEE          1.75 PLN
+TOTAL AMOUNT        426.0 PLN
+-------------------------------
+
+[2025-08-22 22:35:47.176550] DEPOSIT - EUR - 200.0 - Balance: 850.25 PLN
+
+-------------------------------
+         ATM TRANSACTION
+-------------------------------
+TERMINAL #       75769595
+SEQUENCE #       6709
+DATE             2025-08-22 22:35
+CARD NUMBER      XXXXXXXXXXXX5698
+CUSTOMER NAME    ELVIN BABANLI
+-------------------------------
+DEPOSIT AMOUNT     200.0 PLN
+TERMINAL FEE          1.75 PLN
+TOTAL AMOUNT        852.0 PLN
+-------------------------------
+
